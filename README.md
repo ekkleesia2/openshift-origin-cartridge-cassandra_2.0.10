@@ -2,9 +2,9 @@
 
 The `cassandra` cartridge provides [Cassandra](http://cassandra.apache.org/) 2.0.10 on OpenShift.
 
-The downloadable URL is : https://raw.github.com/rajatchopra/openshift-origin-cartridge-cassandra/master/metadata/manifest.yml
+The downloadable URL is : https://raw.github.com/ekkleesia2/openshift-origin-cartridge-cassandra_2.0.10/master/metadata/manifest.yml
 
-Simply use with 'rhc' client tools - rhc cartridge add https://raw.github.com/rajatchopra/openshift-origin-cartridge-cassandra/master/metadata/manifest.yml --app <existing_app_name>
+Simply use with 'rhc' client tools - rhc cartridge add https://raw.github.com/ekkleesia2/openshift-origin-cartridge-cassandra_2.0.10/master/metadata/manifest.yml --app <existing_app_name>
 
 ## Environment Variables
 
