@@ -1,6 +1,6 @@
-# OpenShift Cassandra Cartridge
+# OpenShift Cassandra Cartridge 2.0.10
 
-The `cassandra` cartridge provides [Cassandra](http://cassandra.apache.org/) on OpenShift.
+The `cassandra` cartridge provides [Cassandra](http://cassandra.apache.org/) 2.0.10 on OpenShift.
 
 The downloadable URL is : https://raw.github.com/rajatchopra/openshift-origin-cartridge-cassandra/master/metadata/manifest.yml
 
